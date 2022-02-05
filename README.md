@@ -6,7 +6,7 @@
 
 &nbsp; 
 ## 🏆피드백 명예의 전당🏆
-[😃린생](https://github.com/jungseungyeo) / [🌤웨더](https://github.com/SungPyo) / [🇱🇦루얀](https://github.com/KimWanki)
+[😃린생](https://github.com/jungseungyeo) / [🌤웨더](https://github.com/SungPyo) / [🇱🇦루얀](https://github.com/KimWanki) / [🐻야곰](https://github.com/yagom)
 
 &nbsp; 
 ## 주제 별 TIL
