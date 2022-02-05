@@ -17,6 +17,7 @@
 |220129|[상속과 리스코프 치환 원칙](https://github.com/jcrescent61/TIL/blob/main/2022/01/220129.md)|
 |220131|[MVC와 KVO](https://github.com/jcrescent61/TIL/blob/main/2022/01/220131.md)|
 |220201|[결합도를 낮추는 코드에 대한 고찰](https://github.com/jcrescent61/TIL/blob/main/2022/02/220201.md)|
+|220202|[의존성주입(DI: Dependency Injection)](https://github.com/jcrescent61/TIL/blob/main/2022/02/220202.md)|
  
 &nbsp;  
 ### UIKit
@@ -49,7 +50,8 @@
 &nbsp;
 
 [2월 1일: 결합도를 낮추는 코드에 대한 고찰](https://github.com/jcrescent61/TIL/blob/main/2022/02/220201.md)
-
+ 
+[2월 2일: 의존성주입(DI: Dependency Injection)](https://github.com/jcrescent61/TIL/blob/main/2022/02/220202.md)
   
 &nbsp;   
 </div>
