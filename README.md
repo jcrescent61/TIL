@@ -1,5 +1,6 @@
 # TIL(Today I Learned)
 - 오늘 배운 내용을 간단하게 작성합니다.
+- 주말에 몰아서 업로드합니다.
 - 오개념이 있을 수 있습니다.
 - 항상 겸손한 마음으로 배워나가겠습니다.
 - jcrescent61@gmail.com 피드백 정말 감사합니다
@@ -18,12 +19,20 @@
 |220131|[MVC와 KVO](https://github.com/jcrescent61/TIL/blob/main/2022/01/220131.md)|
 |220201|[결합도를 낮추는 코드에 대한 고찰](https://github.com/jcrescent61/TIL/blob/main/2022/02/220201.md)|
 |220202|[의존성주입(DI: Dependency Injection)](https://github.com/jcrescent61/TIL/blob/main/2022/02/220202.md)|
+|220203|[MVC구조에서 Model과 비즈니스 로직에 대한 고찰](https://github.com/jcrescent61/TIL/blob/main/2022/02/220203.md)|
  
 &nbsp;  
 ### UIKit
 |날짜|주제|
 |---|---|
 |220130|[UIViewController의 LifeCycle과 loadView의 역할](https://github.com/jcrescent61/TIL/blob/main/2022/01/220130.md)|
+|220204|[UIColor 직접 RGB 값 넣어서 컬러 지정하기](https://github.com/jcrescent61/TIL/blob/main/2022/02/220204.md)|
+
+&nbsp;  
+### 기타
+|날짜|주제|
+|---|---|
+|220207|[iOS에서 사용하는 정규표현식: Regular expression](https://github.com/jcrescent61/TIL/blob/main/2022/02/220207.md)|
 
 &nbsp;  
 ## 날짜 별 TIL
@@ -52,6 +61,12 @@
 [2월 1일: 결합도를 낮추는 코드에 대한 고찰](https://github.com/jcrescent61/TIL/blob/main/2022/02/220201.md)
  
 [2월 2일: 의존성주입(DI: Dependency Injection)](https://github.com/jcrescent61/TIL/blob/main/2022/02/220202.md)
+ 
+[2월 3일: MVC구조에서 Model과 비즈니스 로직에 대한 고찰](https://github.com/jcrescent61/TIL/blob/main/2022/02/220203.md)
+ 
+[2월 4일: UIColor 직접 RGB 값 넣어서 컬러 지정하기](https://github.com/jcrescent61/TIL/blob/main/2022/02/220204.md)
+ 
+[2월 7일: iOS에서 사용하는 정규표현식: Regular expression](https://github.com/jcrescent61/TIL/blob/main/2022/02/220207.md)
   
 &nbsp;   
 </div>
