@@ -3,7 +3,13 @@
 - 주말에 몰아서 업로드합니다.
 - 오개념이 있을 수 있습니다.
 - 항상 겸손한 마음으로 배워나가겠습니다.
-- jcrescent61@gmail.com 피드백 정말 감사합니다
+- jcrescent61@gmail.com 피드백 정말 감사합니다.
+
+
+&nbsp; 
+# TIL 블로그로 포스팅으로 변경합니다!!!
+[➡️ 블로그 바로가기 ⬅️](https://jcrescent61.tistory.com/)
+
 
 &nbsp; 
 ## 🏆피드백 명예의 전당🏆
